@@ -4,7 +4,6 @@
 
 -- Oracle 
 SELECT * FROM v$version;
-
 {"headers": ["BANNER"], "values": [["Oracle Database 11g Express Edition Release 11.2.0.2.0 - 64bit Production"], ["PL/SQL Release 11.2.0.2.0 - Production"], ["CORE\t11.2.0.2.0\tProduction"], ["TNS for Linux: Version 11.2.0.2.0 - Production"], ["NLSRTL Version 11.2.0.2.0 - Production"]]}
 
 -- MySQL
